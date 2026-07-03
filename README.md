@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3>Software Engineer | Java Backend | Cyber Security & Pentest</h3>
 
-Sou um desenvolvedor focado em entender a computação a fundo. Minha bagagem técnica transita desde a construção de APIs robustas e escaláveis no ecossistema **Java e Spring**, até a lógica de baixo nível com **linguagem C** e a mentalidade ofensiva/defensiva em **Segurança da Informação (Hacking Ético e Pentest)**.
+Sou um desenvolvedor focado em entender a computação a fundo. Minha bagagem técnica transita desde a construção de APIs robustas e escaláveis no ecossistema **Java e Spring**, até a lógica de baixo nível com **linguagem C/C++** e a mentalidade ofensiva/defensiva em **Segurança da Informação (Hacking Ético e Pentest)**.
 
 Acredito que um bom software deve ser eficiente por dentro, intuitivo por fora e, acima de tudo, **seguro desde a sua concepção**.
 
@@ -27,8 +27,8 @@ Acredito que um bom software deve ser eficiente por dentro, intuitivo por fora e
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Backend & Core** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **Cyber Security & Infra** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) `Pentesting Web` `OWASP Top 10` `Engenharia Reversa` |
+| **Backend & Core** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![C/C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **Cyber Security & Infra** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) `Pentesting Web`  `Engenharia Reversa` |
 | **Scripting & Web** | ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
 
 ---
